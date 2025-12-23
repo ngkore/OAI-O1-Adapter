@@ -11,7 +11,7 @@ Install Docker:
 ```bash
 # 1. Update and install basic tools
 sudo apt update
-sudo apt install -y git net-tools putty unzip ca-certificates curl
+sudo apt install -y git net-tools putty unzip ca-certificates curl make
 
 # 2. Add Docker's official GPG key
 sudo install -m 0755 -d /etc/apt/keyrings
